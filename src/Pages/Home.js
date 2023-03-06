@@ -18,7 +18,7 @@ function Home() {
         <p className="text-md py-5 leading-8 text-gray-800 dark:text-gray-200 max-w-xl mx-auto md:text-xl">
           I am an enthusiastic front end Web Developer. I am a student at L.D
           College of Engineering pursuing my Bachelor of Engineering in
-          Electronics and Communication. I
+          Electronics and Communication.
         </p>
         <div className="text-5xl flex justify-center gap-16 py-3 text-gray-600 dark:text-gray-400">
           <Link to="https://www.instagram.com/kiriti5ai/" target="_blank">
@@ -47,37 +47,37 @@ function Home() {
           <span className="text-red-700 font-bold">Skills</span>
         </h2>
         <div className="carousel carousel-end rounded-box">
-          <div className="carousel-item">
+          <div className="carousel-item w-60 h-60">
             <SkillsCard
               skill="ReactJs"
               skillPhoto="https://ih0.redbubble.net/image.127584817.4804/sticker,375x360.u2.png"
             />
           </div>
-         <div className="carousel-item">
+         <div className="carousel-item  w-60 h-60">
             <SkillsCard
               skill="JavaScript"
               skillPhoto="https://tse2.mm.bing.net/th?id=OIP.I5XOh9o_kbTNsXnsIc53aAHaHa&pid=Api&P=0"
             />
           </div>
-          <div className="carousel-item">
+          <div className="carousel-item  w-60 h-60">
             <SkillsCard
               skill="HTML"
               skillPhoto="https://tse4.mm.bing.net/th?id=OIP.bI8KDjd8-nDvzTX_Uok7FwHaHa&pid=Api&P=0"
             />
           </div>
-          <div className="carousel-item">
+          <div className="carousel-item  w-60 h-60">
             <SkillsCard
               skill="CSS"
               skillPhoto="https://tse3.mm.bing.net/th?id=OIP.NccvSu6Gut1HXGwUTBKYKgHaH3&pid=Api&P=0"
             />
           </div>
-          <div className="carousel-item">
+          <div className="carousel-item  w-60 h-60">
             <SkillsCard
               skill="C"
               skillPhoto="https://www.kindpng.com/picc/m/403-4039227_c-language-logo-png-transparent-png.png"
             />
           </div>
-          <div className="carousel-item">
+          <div className="carousel-item  w-60 h-60">
             <SkillsCard
               skill="C++"
               skillPhoto="https://d33wubrfki0l68.cloudfront.net/c29d5f3fa689d44f5d4202137aae14560c42db25/16c64/img/cpp.svg"
