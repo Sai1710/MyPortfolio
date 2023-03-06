@@ -53,19 +53,7 @@ function Home() {
               skillPhoto="https://ih0.redbubble.net/image.127584817.4804/sticker,375x360.u2.png"
             />
           </div>
-          <div className="carousel-item">
-            <SkillsCard
-              skill="C"
-              skillPhoto="https://www.kindpng.com/picc/m/403-4039227_c-language-logo-png-transparent-png.png"
-            />
-          </div>
-          <div className="carousel-item">
-            <SkillsCard
-              skill="C++"
-              skillPhoto="https://d33wubrfki0l68.cloudfront.net/c29d5f3fa689d44f5d4202137aae14560c42db25/16c64/img/cpp.svg"
-            />
-          </div>
-          <div className="carousel-item">
+         <div className="carousel-item">
             <SkillsCard
               skill="JavaScript"
               skillPhoto="https://tse2.mm.bing.net/th?id=OIP.I5XOh9o_kbTNsXnsIc53aAHaHa&pid=Api&P=0"
@@ -83,6 +71,19 @@ function Home() {
               skillPhoto="https://tse3.mm.bing.net/th?id=OIP.NccvSu6Gut1HXGwUTBKYKgHaH3&pid=Api&P=0"
             />
           </div>
+          <div className="carousel-item">
+            <SkillsCard
+              skill="C"
+              skillPhoto="https://www.kindpng.com/picc/m/403-4039227_c-language-logo-png-transparent-png.png"
+            />
+          </div>
+          <div className="carousel-item">
+            <SkillsCard
+              skill="C++"
+              skillPhoto="https://d33wubrfki0l68.cloudfront.net/c29d5f3fa689d44f5d4202137aae14560c42db25/16c64/img/cpp.svg"
+            />
+          </div>
+          
         </div>
       </div>
       <div className="h-1 w-auto bg-red-700 rounded-full"></div>
